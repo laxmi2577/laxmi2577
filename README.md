@@ -13,11 +13,11 @@
 ---
 
 ### 🌟 About Me
-I’m a passionate B.Tech graduate in Computer Science from Ajay Binay Institute of Technology (CGPA: 8.2), diving deep into the world of software engineering. I thrive on solving complex problems, building scalable solutions, and embracing cutting-edge tech like **Spring Boot**, **AWS**, and **ReactJS**. Fun fact: I’m a coding ninja by day and a humor enthusiast by life! 😅
+I’m a passionate B.Tech graduate in Computer Science from Ajay Binay Institute of Technology (CGPA: 8.2), diving deep into software engineering. I thrive on solving complex problems, building scalable solutions, and embracing cutting-edge tech like **Spring Boot**, **AWS**, and **ReactJS**. Fun fact: I’m a daily coding ninja and a humor enthusiast by nature! 😅
 
 - 🌱 **Currently mastering**: Spring Boot & Microservices  
 - 👨‍💻 **Projects**: Check them out on [Linktree](https://linktr.ee/laxmiranjan444)  
-- 📄 **Resume**: [Download PDF](https://drive.google.com/file/d/1IfgcREWMBhYGc1En2Kj3OXhZRJ0NoSbr/view?usp=drive_link)  
+- 📄 **Resume**: [Download PDF](https://drive.google.com/file/d/1_l8r8N8c5nrdRG4R4PyUt5QPCKQ1MfZi/view?usp=sharing)  
 - 📫 **Reach me**: laxmiranjan444@gmail.com  
 
 ---
@@ -25,13 +25,13 @@ I’m a passionate B.Tech graduate in Computer Science from Ajay Binay Institute
 ### 🎓 Education
 **Ajay Binay Institute of Technology, Cuttack**  
 *B.Tech in Computer Science and Engineering* | 2020 - 2024  
-- CGPA: 8.2  
+- CGPA: 8.4  
 - Key Courses: DSA, Algorithms, OS, Computer Networks  
 - Capstone Project: Cloud-based e-Healthcare platform with Java & AWS  
 
 **Matrubhaban School and College, Cuttack**  
 *Higher Secondary Certificate (Science)* | 2018 - 2020  
-- Percentage: 65%  
+- Percentage: 70%  
 - Awards: Distinction in Math & Science Competitions  
 
 ---
@@ -77,7 +77,7 @@ I’m a passionate B.Tech graduate in Computer Science from Ajay Binay Institute
 
 **Intelligent Tourist Experience Enhancer**  
  Java, JSP, CSS, JavaScript, MySQL  
-- AI-powered tourism recommender system, increasing engagement by 30%.  
+- An AI-powered tourism recommender system, increasing engagement by 30%.  
 - Responsive UI with 15% faster load times.  
 
 ---
