@@ -63,20 +63,20 @@ I’m a passionate B.Tech graduate in Computer Science from Ajay Binay Institute
 | **Languages**           | ![English](https://img.shields.io/badge/English-Professional-2ECC71?style=flat) ![Hindi](https://img.shields.io/badge/Hindi-Fluent-2ECC71?style=flat) ![Odia](https://img.shields.io/badge/Odia-Fluent-2ECC71?style=flat) |
 
 **Progress**:  
-- DSA: ![DSA Progress](https://progress-bar.dev/90/?title=DSA&width=200&color=00ff00)  
-- Problem Solving: ![Problem Solving Progress](https://progress-bar.dev/85/?title=Problem%20Solving&width=200&color=00ff00)  
-- Full-Stack Dev: ![Full-Stack Dev Progress](https://progress-bar.dev/80/?title=Full-Stack%20Dev&width=200&color=00ff00)  
+- DSA: ![DSA Progress](https://img.shields.io/badge/DSA-90%25-brightgreen?style=flat-square)  
+- Problem Solving: ![Problem Solving Progress](https://img.shields.io/badge/Problem%20Solving-85%25-brightgreen?style=flat-square)  
+- Full-Stack Dev: ![Full-Stack Dev Progress](https://img.shields.io/badge/Full--Stack%20Dev-80%25-brightgreen?style=flat-square)  
 
 ---
 
 ### 🚀 Projects
 **Medi Connect: Bridging with Healthcare**  
-*[GitHub](https://github.com/laxmi2577)* | Java, JSP, AWS, RESTful APIs  
+ Java, JSP, CSS, JavaScript, MySQL, AWS, RESTful APIs  
 - Secure e-healthcare platform with encrypted PHRs for 500+ patients.  
 - Boosted access efficiency by 45% and cut query time by 20%.  
 
 **Intelligent Tourist Experience Enhancer**  
-Java, MySQL, Machine Learning  
+ Java, JSP, CSS, JavaScript, MySQL  
 - AI-powered tourism recommender system, increasing engagement by 30%.  
 - Responsive UI with 15% faster load times.  
 
