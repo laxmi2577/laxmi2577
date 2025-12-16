@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://github.com/laxmi2577/laxmi2577/blob/main/banner.jpg" alt="Banner" width="100%" style="border-radius: 10px;">
   <h1>👋 Hey, I’m Laxmiranjan Sahu</h1>
-  <h3>Exploring Infinite Possibilities in Tech 🚀</h3>
-  <p>Software Engineer | Java Enthusiast | Full-Stack Developer</p>
-  
+  <h3>Architecting Intelligent Solutions on the Cloud 🚀</h3>
+  <p>AI Engineer | OCI Certified Professional | Full-Stack Developer</p>
+
   <a href="https://linkedin.com/in/laxmiranjan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://laxmiranjandev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:laxmiranjan444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -13,83 +13,72 @@
 ---
 
 ### 🌟 About Me
-I’m a passionate B.Tech graduate in Computer Science from Ajay Binay Institute of Technology (CGPA: 8.2), diving deep into software engineering. I thrive on solving complex problems, building scalable solutions, and embracing cutting-edge tech like **Spring Boot**, **AWS**, and **ReactJS**. Fun fact: I’m a daily coding ninja and a humor enthusiast by nature! 😅
+I’m a B.Tech Computer Science graduate passionate about bridging the gap between traditional software engineering and cutting-edge AI. Currently working as an **AI Intern at Infosys** (via the prestigious PMIS program), I focus on building scalable, real-world AI applications using Generative AI, RAG pipelines, and Cloud infrastructure.
 
-- 🌱 **Currently mastering**: Spring Boot & Microservices  
-- 👨‍💻 **Projects**: Check them out on [Linktree](https://linktr.ee/laxmiranjan444)  
-- 📄 **Resume**: [Download PDF](https://drive.google.com/file/d/1_l8r8N8c5nrdRG4R4PyUt5QPCKQ1MfZi/view?usp=sharing)  
-- 📫 **Reach me**: laxmiranjan444@gmail.com  
+I leverage my background in full-stack development to not just build models, but to deploy them into robust, user-facing applications.
+
+- 🔭 **Currently working on**: Multi-Modal RAG systems, fine-tuning CNNs for biometric applications, and optimizing inference on OCI.
+- 🌱 **Actively learning**: Advanced MLOps, Kubernetes (OKE), and System Design for AI.
+- 📄 **Resume**: [Download PDF](https://drive.google.com/file/d/1_l8r8N8c5nrdRG4R4PyUt5QPCKQ1MfZi/view?usp=sharing) *(Note: Update your Drive link with the new resume)*
 
 ---
 
-### 🎓 Education
-**Ajay Binay Institute of Technology, Cuttack**  
-*B.Tech in Computer Science and Engineering* | 2020 - 2024  
-- CGPA: 8.4  
-- Key Courses: DSA, Algorithms, OS, Computer Networks  
-- Capstone Project: Cloud-based e-Healthcare platform with Java & AWS  
+### 🛡️ Certifications (Oracle Cloud Infrastructure)
+I am heavily invested in the OCI ecosystem for building and deploying AI solutions.
 
-**Matrubhaban School and College, Cuttack**  
-*Higher Secondary Certificate (Science)* | 2018 - 2020  
-- Percentage: 70%  
-- Awards: Distinction in Math & Science Competitions  
+| Certification | Badge |
+| :--- | :--- |
+| **OCI 2025 Generative AI Professional** (1Z0-1127-25) | ![GenAI Badge](https://img.shields.io/badge/Oracle-GenAI_Pro-F80000?style=flat&logo=oracle&logoColor=white) |
+| **OCI 2025 Developer Professional** (1Z0-1084-25) | ![Dev Pro Badge](https://img.shields.io/badge/Oracle-Developer_Pro-F80000?style=flat&logo=oracle&logoColor=white) |
+| **OCI 2025 AI Foundations Associate** (1Z0-1122-25) | ![AI Foundations Badge](https://img.shields.io/badge/Oracle-AI_Foundations-F80000?style=flat&logo=oracle&logoColor=white) |
 
 ---
 
 ### 💼 Experience
-**Juvenilia Technology Pvt Limited, Bhubaneswar**  
-*Software Engineering Intern* | Apr 2023 - Nov 2023  
-- Built a full-stack e-commerce platform with Java, JSP, MySQL, and AWS, reducing load times by 25%.  
-- Improved runtime efficiency by 20% using advanced DSA techniques.  
 
-**Internshala (Remote)**  
-*Web Development Trainee* | Jan 2023 - Apr 2023  
-- Developed a responsive web app with ReactJS and MySQL, cutting deployment time by 30%.  
-- Enhanced UI/UX with Bootstrap & Azure, boosting user satisfaction by 25%.  
+**Infosys, Bhubaneswar**
+*AI Intern (PMIS)* | July 2025 - Present
+- Focusing on practical applications of Generative AI, developing automated Python data pipelines, and collaborating in an agile environment to build real-world AI solutions.
+
+*(Previous internships hidden for brevity, see resume for details)*
 
 ---
 
-### 🛠️ Skills
-| **Category**            | **Tech Stack**                                                                 |
-|--------------------------|-------------------------------------------------------------------------------|
-| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) |
-| **Software Development** | ![OOP](https://img.shields.io/badge/OOP-Concepts-6DB33F?style=flat) ![DSA](https://img.shields.io/badge/DSA-Advanced-6DB33F?style=flat) ![Multi-threading](https://img.shields.io/badge/Multi--threading-6DB33F?style=flat) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-6DB33F?style=flat) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-6DB33F?style=flat) |
-| **Web Development**      | ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?style=flat) ![API Development](https://img.shields.io/badge/API%20Development-007396?style=flat) |
-| **Databases**           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![RDBMS](https://img.shields.io/badge/RDBMS-4479A1?style=flat) ![Database Design](https://img.shields.io/badge/Database%20Design-4479A1?style=flat) |
-| **Cloud & DevOps**      | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-181717?style=flat) |
-| **Frameworks & Methodologies** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat) ![Agile](https://img.shields.io/badge/Agile-FF5733?style=flat) ![Scrum](https://img.shields.io/badge/Scrum-FF5733?style=flat) |
-| **Other Skills**        | ![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-FFD700?style=flat) ![Debugging](https://img.shields.io/badge/Debugging-FFD700?style=flat) ![Logical Reasoning](https://img.shields.io/badge/Logical%20Reasoning-FFD700?style=flat) ![Teamwork](https://img.shields.io/badge/Teamwork-00C4B4?style=flat) ![Code Reviews](https://img.shields.io/badge/Code%20Reviews-00C4B4?style=flat) |
-| **Operating Systems**   | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Languages**           | ![English](https://img.shields.io/badge/English-Professional-2ECC71?style=flat) ![Hindi](https://img.shields.io/badge/Hindi-Fluent-2ECC71?style=flat) ![Odia](https://img.shields.io/badge/Odia-Fluent-2ECC71?style=flat) |
+### 🛠️ Technical Skills & Stack
+My toolkit has evolved to focus on AI/ML, Data Science, and Cloud Native development.
 
-**Progress**:  
-- DSA: ![DSA Progress](https://img.shields.io/badge/DSA-90%25-brightgreen?style=flat-square)  
-- Problem Solving: ![Problem Solving Progress](https://img.shields.io/badge/Problem%20Solving-85%25-brightgreen?style=flat-square)  
-- Full-Stack Dev: ![Full-Stack Dev Progress](https://img.shields.io/badge/Full--Stack%20Dev-80%25-brightgreen?style=flat-square)  
+| **Category** | **Tech Stack** |
+| :--- | :--- |
+| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **AI & Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Generative AI](https://img.shields.io/badge/GenAI-LLMs%20%26%20RAG-8A2BE2?style=flat) |
+| **Data Science & Viz** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-013243?style=flat) |
+| **Cloud & MLOps** | ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Modern Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) |
+| **Frontend & Full-Stack** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Databases & Vector DB** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 
 ---
 
-### 🚀 Projects
-**Medi Connect: Bridging with Healthcare**  
- Java, JSP, CSS, JavaScript, MySQL, AWS, RESTful APIs  
-- Secure e-healthcare platform with encrypted PHRs for 500+ patients.  
-- Boosted access efficiency by 45% and cut query time by 20%.  
+### 🚀 Featured AI Project
 
-**Intelligent Tourist Experience Enhancer**  
- Java, JSP, CSS, JavaScript, MySQL  
-- An AI-powered tourism recommender system, increasing engagement by 30%.  
-- Responsive UI with 15% faster load times.  
+#### **Cymatic Resonance Intelligence (Aura AI)**
+*Next.js 15, FastAPI, PyTorch, Supabase (pgvector), Gemini 2.5 Flash-Lite*
 
----
+A scalable, hybrid microservice platform designed to explore the intersection of biometrics and generative AI.
 
-### 🏆 Achievements
-- **Smart India Hackathon**: 1st Place (Team Lead, 5 members)  
-- **College Coding Contest**: 3rd Place  
-- **Competitive Programming**: Top 10% on LeetCode (700+ DSA problems solved)  
+* **"Face DJ" Engine:** Engineered a real-time facial emotion recognition feature by fine-tuning a PyTorch CNN, achieving an 0.85 F1-Score, and dynamically mapping moods to audio parameters.
+* **Multi-Modal RAG Pipeline:** Constructed a context-aware retrieval system using Supabase pgvector and Gemini 2.5 to provide citation-backed neuroscience advice with 0.92 Recall@10.
+* **Performance Optimization:** Implemented lifespan state management in the FastAPI backend, reducing model cold-start latency by 87% for handling concurrent requests.
 
 ---
+
+### 🏆 Achievements & Stats
+- **Smart India Hackathon**: 1st Place (Team Lead)
+- **Competitive Programming**: Top 10% on LeetCode (700+ problems solved, strong DSA foundation)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laxmi2577&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmi2577&show_icons=true&theme=radical" alt="Laxmiranjan's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmi2577&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
-<p align="center">Made with ❤️ and a lot of ☕</p>
+
+<p align="center">Made with ❤️, Python, and lots of ☕</p>
