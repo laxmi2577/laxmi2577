@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/laxmi2577/laxmi2577/blob/main/banner.jpg" alt="Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/laxmi2577/laxmi2577/blob/main/banner.png" alt="Banner" width="100%" style="border-radius: 10px;">
   <h1>👋 Hey, I’m Laxmiranjan Sahu</h1>
   <h3>Architecting Intelligent Solutions on the Cloud 🚀</h3>
   <p>AI Engineer | OCI Certified Professional | Full-Stack Developer</p>
